@@ -1,6 +1,7 @@
 # GitGrab
 
 GitGrab is a powerful and user-friendly GUI tool for cloning GitHub repositories and selectively scraping specific files into a single Markdown document. It provides an intuitive interface for users to choose which files they want to include in their final output.
+Use this to create files for use with giving AI models full context of an entire repo from a single folder. 
 
 ## Features
 
